@@ -1,0 +1,8 @@
+auth:
+  username: "xxx"
+  password: "yyy"
+  database: deel
+
+volumeMounts:
+    - name: data
+      mountPath: /data/db
